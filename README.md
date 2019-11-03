@@ -1,14 +1,11 @@
 # CSAW ESC 2019 Writeups
 ## Format
-Each chall should have a folder in their respective challenge letter:
+Each chall should have a sender their respective challenge letter:
 ```
 Set A
 |
-|-------> Stairs
-           |
-           |----> senderA-stairs.py
-           |----> solveA-stairs.py 
-           |----> writeupA-stairs
+|----> senderA-stairs.py
+|----> senderA-lounge.py 
 ```
 Each challenge should have at minimum 2 files a `sender` and a `writeup`. 
 Please include any scripts in one file used to solve as `solve_{Chall Letter}_{Chall Name}.py` 
