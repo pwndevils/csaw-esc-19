@@ -85,7 +85,7 @@ entry += str(b)
 print(hashlib.sha256(entry.encode('utf-8')).hexdigest())
 
 
-ser.write(b'k')
+ser.write(b'p')
 for i in range(64):
     ser.write(p[i])
 for i in range(16):
