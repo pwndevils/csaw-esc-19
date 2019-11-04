@@ -48,7 +48,7 @@ Please include any scripts in one file used to solve as `solve_{Chall Letter}_{C
 - Spire
 
 
-
-
+## Still need
+- Blue 
 
 
