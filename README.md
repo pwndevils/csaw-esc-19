@@ -24,7 +24,13 @@ B:
 
 C:
 	break
-	recess 			
+	recess
+	game
+
+D:
+E:
+	caeser
+F:
 	
 
 
