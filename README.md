@@ -23,13 +23,14 @@ B:
 	mobile
 
 C:
+	uno
 	break
 	recess
 	game
 
 D:
 E:
-	caeser
+	caesar
 F:
 	
 
