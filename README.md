@@ -11,27 +11,40 @@ Each challenge should have at minimum 2 files a `sender` and a `writeup`.
 Please include any scripts in one file used to solve as `solve_{Chall Letter}_{Chall Name}.py` 
 
 ## Verified Challenges:
-A:
-	lounge
-	closet
-	cafe
-	stairs
+**A:**
 
-B:
-	code
-	dance
-	mobile
+- lounge
+- closet
+- cafe
+- stairs
 
-C:
-	break
-	recess
-	game
+**B:**
 
-D:
-E:
-	caeser
+- code
+- dance
+- mobile
+
+**C:**
+
+- break
+- recess
+- game
+- uno
+
+**D:**
+
+- bounce
+
+**E:**
+
+- Caesar
+- spiral
+- steel
+- tower
+
 F:
-	
+
+- Spire
 
 
 
